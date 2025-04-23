@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Stéfani, uma desenvolvedora apaixonada por back-end, sempre em busca de novos desafios e aprendizado contínuo. Gosto de resolver problemas complexos, otimizar processos e explorar novas tecnologias para criar soluções eficientes e escaláveis. Tenho um olhar analítico e atenção aos detalhes, o que me ajuda a desenvolver sistemas robustos e bem estruturados. Minha motivação vem da oportunidade de evoluir constantemente e contribuir para projetos que fazem a diferença.</p>
+<p align="left">Sou Stéfani, uma desenvolvedora apaixonada por back-end, sempre em busca de novos desafios e aprendizado contínuo. Gosto de resolver problemas complexos, otimizar processos e explorar novas tecnologias para criar soluções eficientes e escaláveis. Minha motivação vem da oportunidade de evoluir constantemente e contribuir para projetos que fazem a diferença.</p>
 
 ###
 
