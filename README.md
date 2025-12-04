@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Sou Stéfani, uma desenvolvedora apaixonada por back-end, sempre em busca de novos desafios e aprendizado contínuo. Gosto de resolver problemas complexos, otimizar processos e explorar novas tecnologias para criar soluções eficientes e escaláveis. Minha motivação vem da oportunidade de evoluir constantemente e contribuir para projetos que fazem a diferença.</p>
+<p align="left">Sou Stéfani, desenvolvedora focada em back-end e DevOps, sempre buscando evoluir e aprender novas tecnologias. 
+Tenho interesse especial em Cloud, CI/CD, containers e desenvolvimento de APIs.</p>
 
 ###
 
@@ -10,7 +11,13 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>🎓 Técnica em Desenvolvimento de Sistemas <br>📚  Graduanda em Sistemas de Informação na FURG</p>
+<p align="left">
+✨ Criando soluções (e alguns bugs) desde 2022  
+🎓 Técnica em Desenvolvimento de Sistemas (SENAC-RS)  
+💻 Graduanda em Sistemas de Informação na FURG  
+☁️ AWS Certified Cloud Practitioner  
+🔧 Atualmente explorando DevOps, Cloud, Kubernetes, CI/CD e Python  
+</p>
 
 ###
 
@@ -19,17 +26,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </div>
 
 ###
