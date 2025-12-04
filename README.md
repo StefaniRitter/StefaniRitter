@@ -12,10 +12,10 @@ Tenho interesse especial em Cloud, CI/CD, containers e desenvolvimento de APIs.<
 ###
 
 <p align="left">
-✨ Criando soluções (e alguns bugs) desde 2022  
-🎓 Técnica em Desenvolvimento de Sistemas (SENAC-RS)  
-💻 Graduanda em Sistemas de Informação na FURG  
-☁️ AWS Certified Cloud Practitioner  
+✨ Criando soluções (e alguns bugs) desde 2022  <br>
+🎓 Técnica em Desenvolvimento de Sistemas (SENAC-RS)  <br>
+💻 Graduanda em Sistemas de Informação na FURG  <br>
+☁️ AWS Certified Cloud Practitioner  <br>
 🔧 Atualmente explorando DevOps, Cloud, Kubernetes, CI/CD e Python  
 </p>
 
