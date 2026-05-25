@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Stéfani, desenvolvedora focada em back-end e DevOps, sempre buscando evoluir e aprender novas tecnologias. 
+<p align="left">Sou Stéfani, desenvolvedora focada em DevOps e back-end, sempre buscando evoluir e aprender novas tecnologias. 
 Tenho interesse especial em Cloud, CI/CD, containers e desenvolvimento de APIs.</p>
 
 ###
